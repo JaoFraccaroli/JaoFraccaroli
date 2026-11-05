@@ -20,7 +20,7 @@ Estudante de **Engenharia da Computação** (conclusão em 2027), focado em **Qu
 
 | Projeto | Descrição |
 |---|---|
-| [Rolador de D20 com testes BDD](https://github.com/JaoFraccaroli/dado-d20-bdd) | Dado de RPG em Next.js com cenários em Gherkin (português), Cucumber + Playwright e controle do sorteio para testar algo aleatório |
+| [Rolador de D20 com testes BDD](https://github.com/JaoFraccaroli/dado-d20-bdd) · [usar](https://jaofraccaroli.github.io/dado-d20-bdd/) | Dado de RPG em Next.js, com vantagem e desvantagem, PWA e APK Android. Cenários em Gherkin (português), Cucumber + Playwright e controle do sorteio para testar algo aleatório |
 | [Estudos de Qualidade de Software](https://github.com/JaoFraccaroli/estudos-qualidade-software) | Exercícios de testes com pytest: fronteiras, dados, mutação, depuração e métricas de defeitos |
 | [Sistema para Clínica de Psicologia](https://github.com/JaoFraccaroli/sistema-clinica-psicologia) | Spring Boot com área clínica e financeira separadas (dados sensíveis, LGPD), controle de acesso por perfil e testes de segurança em JUnit e BDD com Cucumber |
 
