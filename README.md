@@ -13,7 +13,7 @@ Estudante de **Engenharia da Computação** (conclusão em 2027), focado em **Qu
 ## 🛠️ Tecnologias
 
 **Linguagens:** Python · Java · JavaScript · C++
-**Desenvolvimento:** Node.js · React · Next.js · Spring Boot
+**Desenvolvimento:** Node.js · React · Next.js · Spring Boot · Spring Security
 **Bancos de dados:** MySQL · SQL Server · Oracle SQL · MongoDB
 
 ## 📂 Projetos em destaque
@@ -22,7 +22,7 @@ Estudante de **Engenharia da Computação** (conclusão em 2027), focado em **Qu
 |---|---|
 | [Contador com testes BDD](https://github.com/JaoFraccaroli/Contador) | Cenários em Gherkin (português) automatizados com Cucumber + Playwright e rodando no GitHub Actions |
 | [Estudos de Qualidade de Software](https://github.com/JaoFraccaroli/estudos-qualidade-software) | Exercícios de testes com pytest: fronteiras, dados, mutação, depuração e métricas de defeitos |
-| [Sistema de Clínica](https://github.com/JaoFraccaroli/sistema-clinica-spring-boot) | Sistema em Spring Boot com defeitos encontrados, corrigidos e cobertos por testes com JUnit e MockMvc |
+| [Sistema para Clínica de Psicologia](https://github.com/JaoFraccaroli/sistema-clinica-psicologia) | Spring Boot com área clínica e financeira separadas (dados sensíveis, LGPD), controle de acesso por perfil e testes de segurança em JUnit e BDD com Cucumber |
 
 ## 📫 Contato
 
